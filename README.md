@@ -1,2 +1,3 @@
 # tic-tac-toe
-es ist ein tic tac toe spiel
+Ein kleine TicTacToe spiel um die Gundlagen zu verinnerlichen 
+
